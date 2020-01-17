@@ -1,0 +1,13 @@
+.citymap{
+    .goback{
+        position: fixed;
+        top: 5px;
+        left: 5px;
+        z-index: 100;
+        background: #fff;
+        img{
+            width: 24px;
+            height: 24px;
+        }
+    }
+}
